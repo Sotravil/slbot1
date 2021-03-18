@@ -19,6 +19,7 @@
 
 <img src="https://github.com/Sotravil/animaciones/blob/main/46400cbacaf8eb1b36a89cdcd7da6740_w200.gif" alt="Hacker" width="600" />
 <div align="center">
+
 ```
 ## INSTRUCIONES 
 ```
