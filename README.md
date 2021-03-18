@@ -77,6 +77,6 @@ Script: @Narutomo
 ## Mis Redes Sociales
 
 
-> [<img src="https://github.com/Sotravil/animaciones/blob/main/whatsapp.gif" width="50px">]
+[<img src="https://github.com/Sotravil/animaciones/blob/main/whatsapp.gif" width="50px">](https://wa.me/19728806294)
 
 
