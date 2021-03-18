@@ -19,7 +19,10 @@
 
 <img src="https://github.com/Sotravil/animaciones/blob/main/46400cbacaf8eb1b36a89cdcd7da6740_w200.gif" alt="Hacker" width="600" />
 <div align="center">
-#### instruciones
+```
+###### INSTRUCIONES 
+```bash
+
 <details>
 
 # Sotravil
@@ -36,7 +39,7 @@ Bot Basico de WhatsApp
 > cd Arya-BOT3
 > npm install
 ```
-###### Run
+###### LANZAR BOT
 ```bash
 > node . [<session name>] (session name is optional)
 ```
