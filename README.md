@@ -77,7 +77,7 @@ Script: @Narutomo
 [GITHUB](https://github.com/Sotravil)
 
 ## Group
-* <a href="https://chat.whatsapp.com/CFrlehcnibhDLmd3nLXr2B"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/CFrlehcnibhDLmd3nLXr2B"><img alt="WhatsApp" src="https://img.shields.io/badge/Grupo%20De WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ### [Donaciones](https://paypal.me/Sotravil) [<img src="https://github.com/Sotravil/animaciones/blob/main/coiny-paypal.gif" width="50px">](https://paypal.me/Sotravil)
 
