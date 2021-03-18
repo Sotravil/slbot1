@@ -1,3 +1,4 @@
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hola soy sotravil
 <p align="center">
 <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/999691b4-e557-4058-87d8-6b6a398c8837-profile_image-300x300.png" width="128" height="128"/>
 </p>
