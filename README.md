@@ -75,3 +75,5 @@ Script: @Narutomo
 
 
 ## Mis Redes Sociales
+
+[<img scr="" width="28px"](https://wa.me/19728806294)
