@@ -19,7 +19,8 @@
 
 <img src="https://github.com/Sotravil/animaciones/blob/main/46400cbacaf8eb1b36a89cdcd7da6740_w200.gif" alt="Hacker" width="600" />
 <div align="center">
-<ver mas>
+###instruciones
+<details>
 
 # Sotravil
 Bot Basico de WhatsApp
@@ -83,7 +84,7 @@ Script: @Narutomo
 [<img src="https://github.com/Sotravil/animaciones/blob/main/whatsapp.gif" width="50px">](https://wa.me/19728806294)
 
 
-</ver mas>
+</details>
 
 
 
