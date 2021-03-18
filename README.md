@@ -18,10 +18,10 @@
 </p>
 
 
-# Drawl Nag
-Simple WhatsApp Bot
+# Sotravil
+Bot Basico de WhatsApp
 
-### FOR TERMUX USER
+### PARA USUARIOS TERMUX
 ```bash
 > pkg update && pkg upgrade
 > pkg install git -y
@@ -39,7 +39,7 @@ Simple WhatsApp Bot
 
 ---------
 
-### FOR WINDOWS/VPS/RDP USER
+### PARA USUARIOS WINDOWS/VPS/RDP 
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads) <br>
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download) <br>
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
@@ -49,13 +49,13 @@ Simple WhatsApp Bot
 > cd Arya-BOT3
 > npm install
 ```
-###### Run
+###### LANZAR BOT
 ```bash
 > node index.js
 ```
 
-# Recode: Drawl Nag
-Script: @Nurutomo
+# Recodificador: Sotravil
+Script: @Narutomo 
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
 
@@ -63,4 +63,4 @@ Script: @Nurutomo
 
 </p>
 
-[GITHUB](https://github.com/Arya274)
+[GITHUB](https://github.com/Sotravil)
