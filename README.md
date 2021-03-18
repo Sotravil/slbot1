@@ -76,10 +76,11 @@ Script: @Narutomo
 
 [GITHUB](https://github.com/Sotravil)
 
-## Group
+## Mis grupos
 * <a href="https://chat.whatsapp.com/CFrlehcnibhDLmd3nLXr2B"><img alt="WhatsApp" src="https://img.shields.io/badge/Grupo%20De WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-### [Donaciones](https://paypal.me/Sotravil) [<img src="https://github.com/Sotravil/animaciones/blob/main/coiny-paypal.gif" width="50px">](https://paypal.me/Sotravil)
+
+## [Donaciones](https://paypal.me/Sotravil) [<img src="https://github.com/Sotravil/animaciones/blob/main/coiny-paypal.gif" width="50px">](https://paypal.me/Sotravil)
 
 * <a href="https://paypal.me/Sotravil"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 
