@@ -64,3 +64,12 @@ Script: @Narutomo
 </p>
 
 [GITHUB](https://github.com/Sotravil)
+
+## Group
+* <a href="https://chat.whatsapp.com/CFrlehcnibhDLmd3nLXr2B"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+### Donaciones
+
+* <a href="https://paypal.me/Sotravil"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+
+
