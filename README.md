@@ -17,6 +17,9 @@
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
+<img src="https://github.com/Sotravil/animaciones/blob/main/46400cbacaf8eb1b36a89cdcd7da6740_w200.gif" alt="Hacker" width="600" />
+<div align="center">
+<details>
 
 # Sotravil
 Bot Basico de WhatsApp
@@ -78,5 +81,9 @@ Script: @Narutomo
 
 
 [<img src="https://github.com/Sotravil/animaciones/blob/main/whatsapp.gif" width="50px">](https://wa.me/19728806294)
+
+
+</details>
+
 
 
