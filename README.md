@@ -88,7 +88,7 @@ Script: @Narutomo
 ## Mis Redes Sociales
 
 
-[<img src="https://github.com/Sotravil/animaciones/blob/main/whatsapp.gif" width="50px">](https://wa.me/19728806294)
+[<img src="https://github.com/Sotravil/animaciones/blob/main/whatsapp.gif" width="50px">](https://wa.me/19728806294) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="50px">](https://instagram.com/sotravil.last?igshid=l7miu0x3iefy) 
 
 
 </details>
