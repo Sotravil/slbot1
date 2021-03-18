@@ -65,6 +65,10 @@ Bot Basico de WhatsApp
 ```bash
 > node index.js
 ```
+</details>
+
+
+<details>
 
 ## Recodificador: [Sotravil](https://wa.me/19728806294)
 Script: @Narutomo 
