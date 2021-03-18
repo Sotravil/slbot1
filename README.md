@@ -66,7 +66,7 @@ Bot Basico de WhatsApp
 > node index.js
 ```
 
-# Recodificador: [Sotravil](https://wa.me/19728806294)
+## Recodificador: [Sotravil](https://wa.me/19728806294)
 Script: @Narutomo 
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
