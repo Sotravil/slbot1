@@ -51,10 +51,10 @@ Bot Basico de WhatsApp
 ---------
 
 ### PARA USUARIOS WINDOWS/VPS/RDP 
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads) <br>
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download) <br>
-* Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
+* Descarga e instala Git [`Click Here`](https://git-scm.com/downloads) <br>
+* Descarga e instala NodeJS [`Click Here`](https://nodejs.org/en/download) <br>
+* Descarga e instala FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
+* Descarga e instala ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
 > git clone https://github.com/Arya274/Arya-BOT3
 > cd Arya-BOT3
